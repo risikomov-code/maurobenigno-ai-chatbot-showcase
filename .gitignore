@@ -1,0 +1,17 @@
+# Secrets and production configuration
+.env
+.env.*
+*.key
+*.pem
+*.secret
+secrets/
+credentials/
+private/
+production/
+logs/
+data/
+knowledge-base/
+vector-store/
+__pycache__/
+.venv/
+venv/
